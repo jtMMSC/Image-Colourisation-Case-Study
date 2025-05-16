@@ -1,4 +1,5 @@
-This is an image colourisation algorithm using the RKHS-based framework for the MMSC Scientific Computing Case Study at the University of Oxford.
+This repository contains all the MATLAB files and test data used in the MMSC Scientific Computing Case Study (University of Oxford) exploring Reproducing Kernel Hilbert Space (RKHS)-based image colourisation. The algorithm combines spatial and greyscale kernels and is optimised using the Nelder-Mead method (fminsearch) to achieve high-quality colour reconstruction across various image types.
+
 
 -Test Images/
 Contains the four test images used in the case study.
